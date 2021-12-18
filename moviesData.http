@@ -1,0 +1,12 @@
+GET http://localhost:3000/movies/2/
+
+###
+
+POST http://localhost:3000/movies/2/
+###
+
+GET http://localhost:3000/movies/:95/
+
+###
+
+GET http://localhost:3000/directors/2/movies/
